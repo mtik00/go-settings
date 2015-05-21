@@ -1,2 +1,2 @@
-# go-settings
-JSON settings-based Go package
+# go_settings
+JSON-based settings Go package
